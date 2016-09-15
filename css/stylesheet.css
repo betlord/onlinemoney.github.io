@@ -1,0 +1,41 @@
+body {
+    background-image: url(/images/dota%202.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron h1{
+    margin-left:10px;
+}
+
+.jumbotron p{
+    margin-left:15px;
+    width: 800px;
+}
+
+#body {
+    width: 800px;
+    margin-left: 10px;
+}
+
+#footer {
+    text-align: center;
+}
+
+.socials {
+    margin-top: 70px;
+}
+
+.socials li {
+    display: inline;
+}
+
+.socials img {
+    width: 4%;
+    border-radius: 5px;
+}
+
+.socials img:hover {
+    -webkit-transform: scale(1.2);
+    -webkit-transition: -webkit-transform .2s ease-in;
+}
